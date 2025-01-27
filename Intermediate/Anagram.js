@@ -1,2 +1,0 @@
-//Anagram example  listen  = silent
-

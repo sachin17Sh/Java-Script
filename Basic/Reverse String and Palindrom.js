@@ -21,7 +21,7 @@ for (let i = 0; i < str.length; i++) {
 
 
 
-palindrom
+//palindrom
 
 if (str === newStr) {
     console.log("Given number/word is Pelindrom");
