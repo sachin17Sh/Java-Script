@@ -9,8 +9,7 @@ for (let i = 0; i < c.length; i++) {
          longest = c[i].length
     }  
 }
-
-// console.log(longest);
+console.log(longest);
 
 
 //this will show the word
