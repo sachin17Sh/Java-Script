@@ -15,7 +15,7 @@ for (let i = 0; i < arr.length-1; i++) {
     }  
 }
 
-// console.log(arr);
+console.log(arr);
 
 // Descending order
 let arry = [56,4,5,65,34,56,88]
@@ -26,7 +26,7 @@ for (let i = 0; i < arry.length-1; i++) {
         } 
     }  
 }
-// console.log(arry);
+console.log(arry);
 
 
 

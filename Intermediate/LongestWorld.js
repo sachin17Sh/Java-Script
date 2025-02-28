@@ -9,7 +9,7 @@ for (let i = 0; i < c.length; i++) {
          longest = c[i].length
     }  
 }
-console.log(longest);
+// console.log(longest);
 
 
 //this will show the word
@@ -17,6 +17,8 @@ console.log(longest);
 let str = "A quick browny fox"
 let myval = ''
 let bigval = str.split(' ')
+console.log(bigval);
+
 for (let i = 0; i < bigval.length; i++) {
     if (bigval[i].length > myval.length) {
         myval = bigval[i]
